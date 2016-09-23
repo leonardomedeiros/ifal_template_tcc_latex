@@ -1,0 +1,87 @@
+% ==============================================================================
+% Instituto Federal de Alagoas
+% Modelo usado para Trabalho De Conclusão de Curso (TCC) da Coordenação de 
+% Informática do IFAL - Campus Maceió
+%
+% Autor:  Leonardo Melo de Medeiros
+% Endereço: https://www.overleaf.com/read/swrgmkkmhwzs
+% Baseado no modelo do IFRN feito pelo Prof. Rodrigo Siqueira
+% ==============================================================================
+
+% Classe .......................................................................
+\documentclass[a4paper,12pt,openany,oneside]{book}
+
+%ATENÇÃO USAR PADRÃO DE CONDIFICAÇÃO DO LINUX UTF8
+%PARA SABER SE VC O ESTÁ USANDO BASTA PERCEBER A ACENTUAÇÃO ERRADA
+\usepackage[utf8]{inputenc}
+
+%Para adicionar figuras
+\usepackage{graphicx}
+
+
+
+% Pacotes ....................................................................................
+\input{configs/pacotes.tex}
+
+% Novos Comandos .....................................................................
+\input{configs/comandos.tex}
+%\citationmode{abbr}
+
+% Inicia o texto
+\begin{document}
+
+% Paginas iniciais (sem numeração)
+\pagestyle{empty}
+
+% P?gina de rosto (capa interna)
+\include{rosto}  
+
+%Espa?amento 1 1/2
+\onehalfspacing  
+
+% Paginas introdut?rias (com numeração romana)
+\frontmatter
+
+% Lista de conteúdo (sumário, gerado automaticamente)
+\addcontentsline{toc}{chapter}{Sumário}   
+\tableofcontents  
+
+% Lista de figuras (gerada automaticamente)
+\cleardoublepage 
+\addcontentsline{toc}{chapter}{Lista de Figuras}  
+\listoffigures  
+
+% Lista de tabelas (gerada automaticamente)
+\cleardoublepage 
+\addcontentsline{toc}{chapter}{Lista de Tabelas}   
+\listoftables  
+
+% P?ginas do texto principal (com cabe?alho)
+\mainmatter
+\pagestyle{headings}
+
+% Para facilitar a organização, foi criado um diretório para cada
+% capítulo do documento, pois assim os arquivos das figuras ficam
+% classificados por cap?tulos
+
+% Introdução
+\include{01_introducao/introducao} 
+
+% Desenvolvimento
+\include{02_desenvolvimento/desenvolvimento} 
+
+% Conclusões
+\include{03_conclusao/conclusao} 
+
+\backmatter
+
+
+% Referências bibliográficas (geradas automaticamente)
+%\bibliographystyle{ppgee}
+\bibliographystyle{dcu}
+\addcontentsline{toc}{chapter}{Referências bibliográficas}
+%Arquivo com as bibliografias
+\bibliography{bibliografia}
+
+
+\end{document}

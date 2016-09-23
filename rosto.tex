@@ -1,0 +1,79 @@
+%
+% ********** Página de Rosto
+%
+
+% titlepage gera páginas sem numeração
+\begin{titlepage}
+
+\begin{center}
+
+\small
+
+% O comando @{} no ambiente tabular x é para criar um novo delimitador
+% entre colunas que não a barra vertical | que é normalmente utilizada.
+% O delimitador desejado vai entre as chaves. No exemplo, não há nada,
+% de modo que o delimitador é vazio. Este recurso está sendo usado para
+% eliminar o espaço que geralmente existe entre as colunas
+\begin{tabularx}{\linewidth}{ c X }
+% A figura foi colocada dentro de um parbox para que fique verticalmente
+% centralizada em relação ao resto da linha
+\parbox[c]{3cm}{\includegraphics[width=\linewidth]{IFRN}} &
+\begin{center}
+\textsf{\textsc{Instituto Federal de Alagoas\\
+ Campus Maceió\\
+ Coordenação de Informática \\
+ Curso Superior de Bacharelado em Sistemas de Informação
+}} 
+\end{center}
+
+\end{tabularx}
+
+
+% O vfill é um espaço vertical que assume a máxima dimensão possível
+% Os vfill's desta página foram utilizados para que o texto ocupe
+% toda a folha
+\vfill
+
+\LARGE
+
+\textbf{Título do Trabalho}
+
+\vfill
+
+\Large
+
+\textbf{Autor 1} \\
+%\textbf{Autor 2}
+
+\vfill
+
+\normalsize
+Orientador por:\\
+Prof. Dr. Leonardo Melo de Medeiros\\
+%Prof. Co-orientaddor
+
+
+\vfill
+
+\hfill
+\parbox{0.5\linewidth}{Trabalho de Conclusão de Curso apresentado como requisito para obtenção do título de Bacharel em Sistemas de Informação.}
+
+
+\vfill
+
+\large
+
+%\hfill
+%\parbox{0.5\linewidth}{\textbf{Trabalho de Conclusão de Curso apresentado ao Curso de Bacharelado em Sistemas de Informação do Instituto Federal de Alagoas como requisito parcial para obtenção do título de bacharel em Sistemas de Informação.}
+%
+%
+%\vfill
+%
+%\large
+
+%Data
+Maceió, AL, agosto de 2016
+
+\end{center}
+
+\end{titlepage}

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: principal.aux
+A level-1 auxiliary file: rosto.aux
+A level-1 auxiliary file: 01_introducao/introducao.aux
+A level-1 auxiliary file: 02_desenvolvimento/desenvolvimento.aux
+A level-1 auxiliary file: 03_conclusao/conclusao.aux
+The style file: dcu.bst
+Database file #1: bibliografia.bib
+Warning--entry type for "Bernardete" isn't style-file defined
+--line 23 of file bibliografia.bib
+You've used 1 entry,
+            2921 wiz_defined-function locations,
+            647 strings with 5027 characters,
+and the built_in function-call counts, 3967 in all, are:
+= -- 652
+> -- 47
+< -- 0
++ -- 308
+- -- 14
+* -- 332
+:= -- 815
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 14
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 9
+empty$ -- 25
+format.name$ -- 20
+if$ -- 708
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 10
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 906
+swap$ -- 0
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 21
+width$ -- 0
+write$ -- 15
+(There was 1 warning)

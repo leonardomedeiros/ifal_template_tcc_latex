@@ -12,15 +12,33 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1008
-NormalPos.bottom=451
+NormalPos.bottom=432
 Class=LaTeXView
 Document=principal.tex
 
 [Frame0_View0,0]
-TopLine=0
+TopLine=66
 Cursor=0
 
+[Frame1]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1008
+NormalPos.bottom=432
+Class=LaTeXView
+Document=rosto.tex
+
+[Frame1_View0,0]
+TopLine=48
+Cursor=1182
+
 [SessionInfo]
-FrameCount=1
+FrameCount=2
 ActiveFrame=0
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=latex 2016.7.6)  23 SEP 2016 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=latex 2016.7.6)  27 SEP 2016 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -362,6 +362,41 @@ File: dvips.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+(c:/texlive/2016/texmf-dist/tex/latex/pslatex/pslatex.sty
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
 (./configs/pacotes.tex (c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
@@ -433,70 +468,177 @@ Package: html 1996/12/22 v1.1 hypertext commands for latex2html (nd, hws, rrm)
 (c:/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ))
-(./configs/comandos.tex) (./principal.aux (./rosto.aux)
+(./configs/comandos.tex) (./principal.aux (./capa.aux) (./rosto.aux)
 (./01_introducao/introducao.aux) (./02_desenvolvimento/desenvolvimento.aux)
 (./03_conclusao/conclusao.aux))
 \openout1 = `principal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 34
+.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+\openout2 = `capa.aux'.
+
+ (./capa.tex [1
+
+
+
+])
 \openout2 = `rosto.aux'.
 
- (./rosto.tex <IFRN.eps>
-(c:/texlive/2016/texmf-dist/tex/latex/ae/t1aess.fd) <IFRN.eps>
-File: IFRN.eps Graphic file (type eps)
- <IFRN.eps>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 59.
 
-[1
+(./rosto.tex
+! Undefined control sequence.
+l.10 \noralsize
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 52
+.
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 52
+.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 52
+.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+ [1
 
 
 
-]) (./principal.toc)
-\tf@toc=\write4
-\openout4 = `principal.toc'.
+]) (./principal.lof
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+)
+\tf@lof=\write4
+\openout4 = `principal.lof'.
 
  [1
 
 
 
-] (./principal.lof)
-\tf@lof=\write5
-\openout5 = `principal.lof'.
+
+] (./principal.lot)
+\tf@lot=\write5
+\openout5 = `principal.lot'.
 
  [2
 
 
-] (./principal.lot)
-\tf@lot=\write6
-\openout6 = `principal.lot'.
+]
+! Undefined control sequence.
+l.66 \ListadeSimbolos
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- [3
 
+! LaTeX Error: Environment acronym undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \begin{acronym}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.68 	\acro
+           {dp}[Parkinson]{Doença de Parkinson}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.69 	\acro
+           {svm} [SVM]{Máquina de Vetor de Suporte}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{acronym}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \end{acronym}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3
+
+] (./principal.toc
+
+LaTeX Font Warning: Font shape `T1/aer/bx/sc' undefined
+(Font)              using `T1/aer/bx/n' instead on input line 4.
+
+)
+\tf@toc=\write6
+\openout6 = `principal.toc'.
+
+ [4
 
 ]
 \openout2 = `01_introducao/introducao.aux'.
 
-
-(./01_introducao/introducao.tex
+ (./01_introducao/introducao.tex
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 37.
 (c:/texlive/2016/texmf-dist/tex/latex/ae/omsaer.fd
 File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
  [1
 
 
@@ -507,45 +649,70 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
 
 (./02_desenvolvimento/desenvolvimento.tex
 Cap\'{\i }tulo 2.
+! Undefined control sequence.
+l.23 ...odo de separação dos dados, é que a~\ac
+                                                  {svm} foi aplicada para cl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.23 ...sificar indivíduos diagnosticados com~\ac
+                                                  {dp} ante indivíduos sem ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [3
 
 
 
 ] [4]
 Cap\'{\i }tulo 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 50.
-LaTeX Font Info:    Try loading font information for T1+aett on input line 54.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 65.
 (c:/texlive/2016/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 61.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 72.
+
+(c:/texlive/2016/texmf-dist/tex/latex/ae/t1aess.fd
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
  [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\T1/aer/m/n/12 Largura fixa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\T1/aer/m/n/12 Alinhada no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\T1/aer/m/n/12 Largura fixa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\T1/aer/m/n/12 Alinhada na
  []
 
 File: figuras/eu.eps Graphic file (type eps)
 <figuras/eu.eps>
-Overfull \hbox (61.34041pt too wide) in paragraph at lines 96--102
+Overfull \hbox (61.34041pt too wide) in paragraph at lines 111--117
 \T1/aer/m/n/12 ter uma po-si-��o fixa no texto (como aqui: []). 
  []
 
@@ -560,11 +727,11 @@ Cap\'{\i }tulo 4.
 
 
 
-] (./principal.bbl) [10
+] (./principal.bbl [10
 
 
 
-] (./principal.aux (./rosto.aux)
+]) [11] (./principal.aux (./capa.aux) (./rosto.aux)
 (./01_introducao/introducao.aux) (./02_desenvolvimento/desenvolvimento.aux)
 (./03_conclusao/conclusao.aux))
 
@@ -572,12 +739,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2265 strings out of 493014
- 26541 string characters out of 6137020
- 86881 words of memory out of 5000000
- 5729 multiletter control sequences out of 15000+600000
- 33968 words of font info for 47 fonts, out of 8000000 for 9000
+ 2549 strings out of 493014
+ 30916 string characters out of 6137020
+ 88360 words of memory out of 5000000
+ 5992 multiletter control sequences out of 15000+600000
+ 53168 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,26p,751b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,23p,757b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on principal.dvi (14 pages, 16548 bytes).
+Output written on principal.dvi (17 pages, 19908 bytes).

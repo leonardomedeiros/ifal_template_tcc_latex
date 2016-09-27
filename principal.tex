@@ -18,6 +18,9 @@
 %Para adicionar figuras
 \usepackage{graphicx}
 
+%Para usar Times new Roman
+\usepackage{pslatex}
+
 
 
 % Pacotes ....................................................................................
@@ -34,6 +37,9 @@
 \pagestyle{empty}
 
 % P?gina de rosto (capa interna)
+\include{capa}  
+
+% P?gina de rosto (capa interna)
 \include{rosto}  
 
 %Espa?amento 1 1/2
@@ -42,19 +48,34 @@
 % Paginas introdut?rias (com numeração romana)
 \frontmatter
 
-% Lista de conteúdo (sumário, gerado automaticamente)
-\addcontentsline{toc}{chapter}{Sumário}   
-\tableofcontents  
 
 % Lista de figuras (gerada automaticamente)
 \cleardoublepage 
 \addcontentsline{toc}{chapter}{Lista de Figuras}  
 \listoffigures  
 
+
+
 % Lista de tabelas (gerada automaticamente)
 \cleardoublepage 
 \addcontentsline{toc}{chapter}{Lista de Tabelas}   
-\listoftables  
+\listoftables
+
+\cleardoublepage 
+\addcontentsline{toc}{chapter}{Lista de Símbolos}  
+\ListadeSimbolos
+\begin{acronym}
+	\acro{dp}[Parkinson]{Doença de Parkinson}
+	\acro{svm} [SVM]{Máquina de Vetor de Suporte}
+\end{acronym}
+
+
+% Lista de conteúdo (sumário, gerado automaticamente)
+\addcontentsline{toc}{chapter}{Sumário}   
+\tableofcontents  
+
+
+  
 
 % P?ginas do texto principal (com cabe?alho)
 \mainmatter

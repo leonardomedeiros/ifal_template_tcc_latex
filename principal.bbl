@@ -7,4 +7,44 @@ Alves, M.~B. \harvardand\ de~Arruda, S.~M.  \harvardyearleft
   demais formas de documentos.
 \newline\harvardurl{http://www.bu.ufsc.br/home982.PDF}
 
+\harvarditem{Bhattacharya \harvardand\ Bhatia}{2010}{svmparkinson2010}
+Bhattacharya, I. \harvardand\ Bhatia, M.  \harvardyearleft
+  2010\harvardyearright .
+\newblock Svm classification to distinguish parkinson disease patients, {\em
+  Proceedings of the 1st Amrita ACM-W Celebration on Women in Computing in
+  India}, ACM.
+
+\harvarditem[Das et~al.]{Das, Trutoiu, Murai, Alcindor, Oh, De~la Torre
+  \harvardand\ Hodgins}{2011}{quantitativeparkinson2011}
+Das, S., Trutoiu, L., Murai, A., Alcindor, D., Oh, M., De~la Torre, F.
+  \harvardand\ Hodgins, J.  \harvardyearleft 2011\harvardyearright .
+\newblock Quantitative measurement of motor symptoms in parkinson's disease: A
+  study with full-body motion capture data, {\em International Conference of
+  Engineering in Medicine and Biology Society}, EMBC.
+
+\harvarditem[Manzanera et~al.]{Manzanera, Roosma, Beudel, Borgemeester, Laar
+  \harvardand\ Maurits}{2016}{bradmonitor2015}
+Manzanera, O., Roosma, E., Beudel, M., Borgemeester, R., Laar, T. \harvardand\
+  Maurits, N.  \harvardyearleft 2016\harvardyearright .
+\newblock A method for automatic and objective scoring of bradykinesia using
+  orientation sensors and classification algorithms, {\em IEEE Transactions on
+  Biomedical Engineering} {\bf 63}(5).
+
+\harvarditem[Patel et~al.]{Patel, Lorincz, Hughes, Huggins, Growdon, Standaert,
+  Akay, Dy, Welsh \harvardand\ Bonato}{2009}{patel_monitoring_2009}
+Patel, S., Lorincz, K., Hughes, R., Huggins, N., Growdon, J., Standaert, D.,
+  Akay, M., Dy, J., Welsh, M. \harvardand\ Bonato, P.  \harvardyearleft
+  2009\harvardyearright .
+\newblock Monitoring motor fluctuations in patients with parkinson's disease
+  using wearable sensors, {\em IEEE Transactions on Information Technology in
+  Biomedicine} {\bf 13}(6).
+
+\harvarditem[Yang et~al.]{Yang, Xiong, Liu, Sun, Luo, Ding, Wu \harvardand\
+  Wang}{2016}{wiiassesspark2016}
+Yang, K., Xiong, W.-X., Liu, E.-T., Sun, Y.-M., Luo, S., Ding, Z.-T., Wu, J.-J.
+  \harvardand\ Wang, J.  \harvardyearleft 2016\harvardyearright .
+\newblock Objective and quantitative assessment of motor function in
+  parkinson’s disease-from the perspective of practical applications, {\em
+  Annals of Translational Medicine} {\bf 4}(5).
+
 \end{thebibliography}
